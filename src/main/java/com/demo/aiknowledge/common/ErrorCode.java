@@ -14,7 +14,7 @@ public enum ErrorCode {
     VERIFICATION_CODE_EXPIRED(4003, "验证码已过期或未发送"),
     INVALID_VERIFICATION_CODE(4004, "验证码错误"),
     PHONE_ALREADY_REGISTERED(4005, "该手机号已注册"),
-    USERNAME_SENSITIVE(4006, "用户名包含敏感词"),
+    USERNAME_SENSITIVE(4006, "用户名包含敏感词！"),
     USER_NOT_FOUND(4007, "用户不存在，请先注册"),
     INVALID_PASSWORD(4008, "密码错误"),
     PASSWORD_TOO_SHORT(4009, "密码长度不能少于6位"),
